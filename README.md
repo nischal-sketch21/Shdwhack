@@ -1,4 +1,4 @@
-#SHADOWHACKS
+Author: nischal-sketch21
 ### Version 3
 ![image](Shdwtool.png)
 
