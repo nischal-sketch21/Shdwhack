@@ -14,7 +14,7 @@ Works on any of the following operating systems:
 
 # How to Install
 * Open the terminal and type `<pkg install git>`
-* Then`<git clone https://github.com/nischal-sketch21/Shdwhack.sh.git>`
+* Then`<git clone https://github.com/nischal-sketch21/Shdwhack.git>`
 * `<cd Shdwhack>`
 * `<bash Shdwhack.sh>`
 
